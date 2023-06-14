@@ -1,0 +1,7 @@
+GET http://localhost:80
+Content-Type:application/json
+
+{
+  "nome": "Victor Sergio",
+  "email":  "victorsergi@hotmail.com"
+} 
